@@ -1,0 +1,6 @@
+*In the name of God, the Most Gracious, the Most Merciful. (Bismillah)*
+
+= Python Programming Language Tutorial
+
+* *Project Name :* Python Programming Language Step-by-Step Tutorial for beginner
+* *Tutorial Link :* link:https://hmtmcse.com/py/lang[hmtmcse.com/py/lang]
